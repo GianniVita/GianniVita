@@ -1,3 +1,18 @@
-#Gianni Vitale
-## 💻 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+# 💫 About Me:
+🛠️ I’m currently working on<br><br>• Progetti nel settore dell’aviazione, contenuti per Instagram legati ai viaggi e al mondo dei piloti<br>• Piccole applicazioni in Node.js, HTML/CSS/JS per migliorare le mie competenze tech<br>• La crescita di vari progetti personali: ZeroLife, MiniWings e idee di business nel turismo e real estate<br><br>👯 I’m looking to collaborate on<br><br>• Progetti digitali legati a viaggi, aviazione e community per viaggiatori<br>• Idee di branding minimal/moderno<br>• Piccoli progetti web per crescere come developer<br><br>🤝 I’m looking for help with<br><br>• Migliorare le mie skill da programmatore (soprattutto JavaScript e React)<br>• Ottimizzare la gestione dei social (Instagram, YouTube, Facebook) con meno tempo e più risultati<br>• Consigli per sviluppare web apps<br><br>🌱 I’m currently learning<br><br>• Html, Css, JavaScript, React, Node.js e sviluppo web step-by-step<br>• Come creare contenuti efficaci per Instagram nel settore aviazione/Pilates<br>• Come strutturare business nel wellness e nel turismo<br><br>💬 Ask me about<br><br>• Aviazione, viaggi low-cost, consigli per volare meglio<br>• Organizzazione familiare (genitore rappresentante level 💯😄)<br>• Idee creative per messaggi, annunci e comunicazioni<br><br>⚡ Fun fact<br><br>Ho chiamato mia mamma da Londra chiedendole perché il mio sugo non veniva buono come il suo. Risposta: “Perché tu cucini 5 minuti… io un’ora!”. Da allora soffritto fatto come si deve 😄🍅
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/giannivitale_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gianni-vitale-4508b290/) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GianniVita&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GianniVita&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GianniVita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GianniVita&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
